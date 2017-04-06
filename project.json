@@ -1,0 +1,8 @@
+{
+  "name": "qm-dev",
+  "description": "Quorm - quorum based decision / dissemination platform [DEV]",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::952198813923:role/qm-dev_lambda_function",
+  "environment": {}
+}
